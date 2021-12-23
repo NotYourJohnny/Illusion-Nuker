@@ -1,0 +1,22 @@
+{
+    "Token1": "Add your token here, if its a bot token make sure “Bot“ is true if not then false",
+    "Token": "ODY5MjM5NTM1NDQyMjAyNjk0.YP7UZg.FJqA4bqTORY12yiIfIjZOwhtsKU",
+    "Channel Names": [
+        "illusion on top", 
+        "illusion runs u"
+    ],
+    "Role Names": [
+        "illusion on top", 
+        "illusion runs u"
+    ],
+    "Webhook Usernames": [
+        "illusion on top", 
+        "illusion runs u"
+    ],
+    "Spam Messages": [
+        "> @everyone https://discord.gg/cZ5H9NCaMx -> Join Now!", 
+        "> @everyone https://discord.gg/cZ5H9NCaMx -> Join For Support!"
+    ],
+    "Webhook Spam": true,
+    "Bot": true
+}
